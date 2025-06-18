@@ -1,0 +1,12 @@
+#header_title{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.5);
+}
